@@ -24,6 +24,8 @@ Clojure, ClojureScript, JavaScript, TypeScript, React.js, Angular, PHP, SQL, Lin
 
 🔨	Clojure, ClojureScript, reagent, re-frame, Flutter, Dart, GraphQL, PostgreSQL
 
+---
+
 - Built together with a team of great Clojure/ClojureScript developers, [a well-loved](https://www.trustpilot.com/review/fliptalk.online) web service for English language learning.
 - Organized  process of frontend development starting from Figma to building and optimizing JS bundles.
 - Developed UIKit library and related frontend tools in ClojureScript
@@ -36,6 +38,8 @@ Clojure, ClojureScript, JavaScript, TypeScript, React.js, Angular, PHP, SQL, Lin
 📅	June 2021 - January 2022 (Full-time)	📍 Remote
 
 🔨	TypeScript, JavaScript
+
+---
 
 - Contributed to optimizing the user experience and increasing conversion rates through A/B testing on application forms.
 - Contributed to the development of a collaborative library across multiple teams, focused on advancing the development of application forms.
@@ -50,6 +54,8 @@ Clojure, ClojureScript, JavaScript, TypeScript, React.js, Angular, PHP, SQL, Lin
 
 🔨	JavaScript, Mentoring
 
+---
+
 There are many online programming schools nowadays, but one is outstanding. I believe Hexlet help people to become true programmers by growing not just a set of skills but by changing their mindset and way of reasoning.
 
 - Helped people on their way to personal growth as programmers.
@@ -61,6 +67,8 @@ There are many online programming schools nowadays, but one is outstanding. I be
 📅	August 2019 - June 2021 (Full-time)	📍 Remote
 
 🔨	TypeScript, Angular, RxJS
+
+---
 
 - Contributed into main product development.
 - Developed from the scratch redesigned version of user dashboard.
@@ -75,6 +83,8 @@ There are many online programming schools nowadays, but one is outstanding. I be
 
 🔨	JavaScript, Mentoring
 
+---
+
 - Taught people HTML, CSS and JS and helped them to become programmers
 
 
@@ -84,6 +94,8 @@ There are many online programming schools nowadays, but one is outstanding. I be
 📅	June 2018 - June 2019 (Contract) 📍 Remote
 
 🔨	TypeScript, React, redux, BEM
+
+---
 
 - Developed and brought to production a few crypto exchange services.
 - Contributed to the frontend of a core product exchange engine and trader's terminal.
@@ -98,6 +110,8 @@ There are many online programming schools nowadays, but one is outstanding. I be
 
 🔨	JavaScript, React, PHP
 
+---
+
 - Developed the frontend for a high-loaded website, coded in PHP and VanillaJS. Our goal was to create a user-friendly, SEO-friendly, uncomplicated, and lightweight interface. We reached this by making our own-baked lightweight JS framework.
 - Built a web application for video creators and producers, featuring a dashboard for video uploads, management, monitoring, and analysis (like an YouTube Studio). Leveraging React.JS we crafted this platform from the ground up.
 
@@ -108,6 +122,8 @@ There are many online programming schools nowadays, but one is outstanding. I be
 📅	April 2015 - March 2017 (Full-time)	📍 Russia, Omsk
 
 🔨	JavaScript, React, redux, css-modules
+
+---
 
 - Developed a map [web application](https://omsk.mlsn.ru/map) for realty searching.
 - Created a mobile website at https://m.mlsn.ru.
@@ -121,6 +137,8 @@ There are many online programming schools nowadays, but one is outstanding. I be
 
 🔨	PHP, MySQL, Yii, KnockoutJS
 
+---
+
 - Developed CRM and booking management system from scratch.
 - Learned a lot about architecture of complex applications, patterns, and so on.
 
@@ -131,6 +149,8 @@ There are many online programming schools nowadays, but one is outstanding. I be
 📅	June 2013 - September 2013 (Contract)	📍 Remote
 
 🔨	PHP, MySQL, Yii, jQuery
+
+---
 
 - Developed map integration for sdam74.ru.
 - Embed Russian official GIS (FIAS, KLADR) into service.
@@ -143,6 +163,8 @@ There are many online programming schools nowadays, but one is outstanding. I be
 
 🔨	PHP, MySQL, Yii, jQuery
 
+---
+
 - Created a web service for biometric authentication through handwritten signatures at https://signtologin.com.
 
 
@@ -152,6 +174,8 @@ There are many online programming schools nowadays, but one is outstanding. I be
 📅	September 2009 - April 2012 (Part-time)	📍 Russia, Omsk
 
 🔨	Linux, PHP, MySQL, Apache, Joomla, Moodle
+
+---
 
 - Developed and maintained college learning management system
 - Maintained Linux server
