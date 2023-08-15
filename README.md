@@ -29,7 +29,7 @@ Clojure, ClojureScript, JavaScript, TypeScript, React.js, Angular, PHP, SQL, Lin
 - Developed UIKit library and related frontend tools in ClojureScript
 - Taught myself Flutter and developed mobile application for learning and training English words
 
-
+<br/>
 
 ### Frontend Developer at [Tinkoff Bank](https://www.tinkoff.ru/)
 
@@ -42,7 +42,7 @@ Clojure, ClojureScript, JavaScript, TypeScript, React.js, Angular, PHP, SQL, Lin
 - Proposed an alternative for the main form building tool while uncovering the shortcomings of the current solution.
 - Learnt much about nuances of forms development, UI and UX.
 
-
+<br/>
 
 ### JavaScript Mentor at [Hexlet](https://hexlet.io/)
 
@@ -54,7 +54,7 @@ There are many online programming schools nowadays, but one is outstanding. I be
 
 - Helped people on their way to personal growth as programmers.
 
-
+<br/>
 
 ### Frontend Developer at [Skyeng](https://skyeng.ru/)
 
@@ -67,7 +67,7 @@ There are many online programming schools nowadays, but one is outstanding. I be
 - Rebuilt the frontend of a CRM/Overbooking system to enhance C1 marketing metrics.
 - Taught myself Angular and RxJS, and swiftly delved into a serious project with a large team.
 
-
+<br/>
 
 ### JavaScript Mentor at [HTML Academy](https://htmlacademy.ru/)
 
@@ -77,7 +77,7 @@ There are many online programming schools nowadays, but one is outstanding. I be
 
 - Taught people HTML, CSS and JS and helped them to become programmers
 
-
+<br/>
 
 ### Frontend Developer at [Qoden Technologies](https://qoden.com/)
 
@@ -90,7 +90,7 @@ There are many online programming schools nowadays, but one is outstanding. I be
 - Maintained UI component library
 - Optimized frontend bundle size and loading speed. This work led me [to speak at a local city meetup](https://www.youtube.com/watch?v=GJSRBYRs-Bo).
 
-
+<br/>
 
 ### Frontend Developer at [Wisebits](https://wisebits.com/)
 
@@ -101,7 +101,7 @@ There are many online programming schools nowadays, but one is outstanding. I be
 - Developed the frontend for a high-loaded website, coded in PHP and VanillaJS. Our goal was to create a user-friendly, SEO-friendly, uncomplicated, and lightweight interface. We reached this by making our own-baked lightweight JS framework.
 - Built a web application for video creators and producers, featuring a dashboard for video uploads, management, monitoring, and analysis (like an YouTube Studio). Leveraging React.JS we crafted this platform from the ground up.
 
-
+<br/>
 
 ### Frontend Developer at [MLSN.ru](https://mlsn.ru)
 
@@ -113,7 +113,7 @@ There are many online programming schools nowadays, but one is outstanding. I be
 - Created a mobile website at https://m.mlsn.ru.
 - Designed a user-friendly UI component system using React.js and css-modules, which have proved to be very easy to maintain, modify and extend.
 
-
+<br/>
 
 ### Fullstack Developer at [Msamui.com](https://www.linkedin.com/in/krvital/)
 
@@ -124,7 +124,7 @@ There are many online programming schools nowadays, but one is outstanding. I be
 - Developed CRM and booking management system from scratch.
 - Learned a lot about architecture of complex applications, patterns, and so on.
 
-
+<br/>
 
 ### Fullstack Developer at [Sdaminfo.ru](https://sdaminfo.ru/)
 
@@ -135,7 +135,7 @@ There are many online programming schools nowadays, but one is outstanding. I be
 - Developed map integration for sdam74.ru.
 - Embed Russian official GIS (FIAS, KLADR) into service.
 
-
+<br/>
 
 ### Fullstack Developer at Development Mill
 
@@ -145,7 +145,7 @@ There are many online programming schools nowadays, but one is outstanding. I be
 
 - Created a web service for biometric authentication through handwritten signatures at https://signtologin.com.
 
-
+<br/>
 
 ### Web Developer and Linux Administrator at College
 
@@ -158,7 +158,7 @@ There are many online programming schools nowadays, but one is outstanding. I be
 - Developed college official website
 - Thaught college teachers how to use internal web-based services
 
-
+<br/>
 
 ## Education and Certificates
 
