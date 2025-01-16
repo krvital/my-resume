@@ -2,11 +2,15 @@
 
 ### Fullstack Software Engineer (Clojure, ClojureScript, JavaScript)
 
-[mail@krvital.pro](mailto:mail@krvital.pro) | [t.me/krvital](https://t.me/krvital) | [krvital.pro](https://krvital.pro)
+[mail@krvital.pro](mailto:mail@krvital.pro) | [t.me/krvital](https://t.me/krvital) | [krvital.pro](https://krvital.pro) | [github](https://github.com/krvital)
 
-I'm an experienced and passionate Fullstack/Frontend Software Engineer who genuinely enjoys it and happens to be pretty good at it too.
+With a broad range of experience in web development (and a bit of mobile development), I’m skilled in full-stack development and understand how to connect the frontend with the backend. I’m also comfortable designing communication protocols. I have a solid understanding of how applications work—everything from the client side to web servers, databases, and operating systems. However, my true passion lies in UI design, UX, DX, and any aspect of work where I can improve the overall user experience.
 
-But it's not just about writing code for me – I also have an understanding what businesses need and how teams work together. Let's build something awesome together!
+’m constantly learning, reading books, and expanding my knowledge in computer science and application architecture. I enjoy experimenting with new approaches and technologies.
+
+I quickly adapt to new fields, and I’m able to master any programming language or technology. I’m skilled at modeling and analyzing functional and non-functional requirements, always keeping the business value in mind.
+
+I work remotely and am highly effective at managing my time.
 
 
 
@@ -18,11 +22,25 @@ Clojure, ClojureScript, JavaScript, TypeScript, React.js, Angular, PHP, SQL, Lin
 
 ## Experience
 
+### Fullstack Developer at [Health Samurai](https://health-samurai.io)
+
+📅 October 2023 – Present (Full-time)	📍 Remote
+
+🔨 Clojure, ClojureScript, reagent, re-frame, Flutter, Dart, GraphQL, PostgreSQL
+
+---
+
+- I’m developing a project and leading a team focused on generating SDKs and mapping FHIR models for different programming languages. I created a [Clojure-based generator](https://github.com/Aidbox/aidbox-sdk) and am involved in [rewriting it in TypeScript](https://github.com/fhir-schema/fhir-schema-codegen).
+
+- I contributed to the development of a prototype system for efficient large data storage on PostgreSQL. I optimized data conversions, explored different data storage formats, and rewrote the search subsystem.
+
+
+
 ### Fullstack Developer at [FlipTalk](https://fliptalk.online/)
 
-📅	January 2022 - Present (Full-time)	📍 Remote
+📅 January 2022 – October 2023 (Full-time)	📍 Remote
 
-🔨	Clojure, ClojureScript, reagent, re-frame, Flutter, Dart, GraphQL, PostgreSQL
+🔨 Clojure, ClojureScript, reagent, re-frame, Flutter, Dart, GraphQL, PostgreSQL
 
 ---
 
@@ -35,9 +53,9 @@ Clojure, ClojureScript, JavaScript, TypeScript, React.js, Angular, PHP, SQL, Lin
 
 ### Frontend Developer at [Tinkoff Bank](https://www.tinkoff.ru/)
 
-📅	June 2021 - January 2022 (Full-time)	📍 Remote
+📅 June 2021 – January 2022 (Full-time)	📍 Remote
 
-🔨	TypeScript, JavaScript
+🔨 TypeScript, JavaScript
 
 ---
 
@@ -50,9 +68,9 @@ Clojure, ClojureScript, JavaScript, TypeScript, React.js, Angular, PHP, SQL, Lin
 
 ### JavaScript Mentor at [Hexlet](https://hexlet.io/)
 
-📅	July 2020 - January 2022 (Part-time)	📍 Remote
+📅 July 2020 – January 2022 (Part-time)	📍 Remote
 
-🔨	JavaScript, Mentoring
+🔨 JavaScript, Mentoring
 
 ---
 
@@ -64,9 +82,9 @@ There are many online programming schools nowadays, but one is outstanding. I be
 
 ### Frontend Developer at [Skyeng](https://skyeng.ru/)
 
-📅	August 2019 - June 2021 (Full-time)	📍 Remote
+📅 August 2019 – June 2021 (Full-time)	📍 Remote
 
-🔨	TypeScript, Angular, RxJS
+🔨 TypeScript, Angular, RxJS
 
 ---
 
@@ -79,9 +97,9 @@ There are many online programming schools nowadays, but one is outstanding. I be
 
 ### JavaScript Mentor at [HTML Academy](https://htmlacademy.ru/)
 
-📅	August 2019 - September 2020 (Part-time)	📍 Remote
+📅 August 2019 – September 2020 (Part-time)	📍 Remote
 
-🔨	JavaScript, Mentoring
+🔨 JavaScript, Mentoring
 
 ---
 
@@ -91,9 +109,9 @@ There are many online programming schools nowadays, but one is outstanding. I be
 
 ### Frontend Developer at [Qoden Technologies](https://qoden.com/)
 
-📅	June 2018 - June 2019 (Contract) 📍 Remote
+📅 June 2018 – June 2019 (Contract)	📍 Remote
 
-🔨	TypeScript, React, redux, BEM
+🔨 TypeScript, React, redux, BEM
 
 ---
 
@@ -106,9 +124,9 @@ There are many online programming schools nowadays, but one is outstanding. I be
 
 ### Frontend Developer at [Wisebits](https://wisebits.com/)
 
-📅	April 2017 - March 2018 (Full-time)	📍Cyprus, Limassol
+📅 April 2017 – March 2018 (Full-time)	📍Cyprus, Limassol
 
-🔨	JavaScript, React, PHP
+🔨 JavaScript, React, PHP
 
 ---
 
@@ -119,9 +137,9 @@ There are many online programming schools nowadays, but one is outstanding. I be
 
 ### Frontend Developer at [MLSN.ru](https://mlsn.ru)
 
-📅	April 2015 - March 2017 (Full-time)	📍 Russia, Omsk
+📅 April 2015 – March 2017 (Full-time)	📍 Russia, Omsk
 
-🔨	JavaScript, React, redux, css-modules
+🔨 JavaScript, React, redux, css-modules
 
 ---
 
@@ -133,9 +151,9 @@ There are many online programming schools nowadays, but one is outstanding. I be
 
 ### Fullstack Developer at [Msamui.com](https://www.linkedin.com/in/krvital/)
 
-📅	September 2013 - April 2015 (Full-time)	📍 Thailand, Koh Samui
+📅 September 2013 – April 2015 (Full-time)	📍 Thailand, Koh Samui
 
-🔨	PHP, MySQL, Yii, KnockoutJS
+🔨 PHP, MySQL, Yii, KnockoutJS
 
 ---
 
@@ -146,9 +164,9 @@ There are many online programming schools nowadays, but one is outstanding. I be
 
 ### Fullstack Developer at [Sdaminfo.ru](https://sdaminfo.ru/)
 
-📅	June 2013 - September 2013 (Contract)	📍 Remote
+📅 June 2013 – September 2013 (Contract)	📍 Remote
 
-🔨	PHP, MySQL, Yii, jQuery
+🔨 PHP, MySQL, Yii, jQuery
 
 ---
 
@@ -159,9 +177,9 @@ There are many online programming schools nowadays, but one is outstanding. I be
 
 ### Fullstack Developer at Development Mill
 
-📅	April 2012 - June 2013 (Full-time)	📍 Russia, Omsk
+📅 April 2012 – June 2013 (Full-time)	📍 Russia, Omsk
 
-🔨	PHP, MySQL, Yii, jQuery
+🔨 PHP, MySQL, Yii, jQuery
 
 ---
 
@@ -171,9 +189,9 @@ There are many online programming schools nowadays, but one is outstanding. I be
 
 ### Web Developer and Linux Administrator at College
 
-📅	September 2009 - April 2012 (Part-time)	📍 Russia, Omsk
+📅 September 2009 – April 2012 (Part-time)	📍 Russia, Omsk
 
-🔨	Linux, PHP, MySQL, Apache, Joomla, Moodle
+🔨 Linux, PHP, MySQL, Apache, Joomla, Moodle
 
 ---
 
@@ -188,11 +206,11 @@ There are many online programming schools nowadays, but one is outstanding. I be
 
 ### Omsk State Pedagogial University
 
-Specialist in Computer Science / Computer Science Teacher (2006 - 2011)
+Specialist in Computer Science / Computer Science Teacher (2006 – 2011)
 
 ### Skyeng
 
-Upper-Intermediate, English Language (2019 - 2020)
+Upper-Intermediate, English Language (2019 – 2020)
 
 
 
