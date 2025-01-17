@@ -26,7 +26,7 @@ Clojure, ClojureScript, JavaScript, TypeScript, React.js, Angular, PHP, SQL, Lin
 
 📅 October 2023 – Present (Full-time)	📍 Remote
 
-🔨 Clojure, ClojureScript, reagent, re-frame, Flutter, Dart, GraphQL, PostgreSQL
+🔨 Clojure, ClojureScript, PostgreSQL, TypeScript
 
 ---
 
